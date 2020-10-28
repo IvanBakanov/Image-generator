@@ -1,4 +1,4 @@
-# Image_generator
+# Image generator
 *Version 0.0.1* 
 
 **Eng:** This application allows you to quickly and conveniently process images using many functions (for example, adding filters). The base image can be downloaded from the Internet using a URL or from a device. You can also change the image size and file extension without changing anything else.
