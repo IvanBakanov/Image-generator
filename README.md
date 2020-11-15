@@ -1,5 +1,7 @@
 # Image generator
-*Version 0.0.1* 
+*Version 0.0.1*
+
+![Image alt](https://github.com/IvanBakanov/Image-generator/blob/main/App%20image.ico)
 
 **Eng:** This application allows you to quickly and conveniently process images using many functions (for example, adding filters). The base image can be downloaded from the Internet using a URL or from a device. You can also change the image size and file extension without changing anything else.
 
